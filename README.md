@@ -13,7 +13,7 @@
 const Asael = {
   pronouns: "He" | "him",
   code: [SQL, NoSQL, HTML, CSS, Python, JavaScript],
-  tools: [MySQL, PostgreSQL, PGAdmin, MongoDB, 
+  tools: [MySQL, PostgreSQL, IBM CLOUD - DB2, IBM - Cognos Analytics , PGAdmin, MongoDB, 
   Visual Studio Code]
   student: [Oracle Next Education - G3 + Alura Latam]
   
