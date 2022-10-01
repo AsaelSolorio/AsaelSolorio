@@ -7,6 +7,10 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/asael-solorio-garcia/)
 
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLGOr8A1SAdzkyq59DyaIz0qUXds55M_n9cfFvnM1v43n2MZMXiTULDFtaj7VAjIwHPCk&usqp=CAU" width="30"/>](image.png) [ Oracle Next Education + Alura](https://app.aluracursos.com/emprega-one/profile/solorioasael)
+
+
+
 ###  A little more about me...  
 
 ```js
