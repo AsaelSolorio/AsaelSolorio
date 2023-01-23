@@ -16,9 +16,9 @@
 ```js
 const Asael = {
   pronouns: "He" | "him",
-  code: [SQL, NoSQL, HTML, CSS, Python, JavaScript],
+  code: [SQL, NoSQL, HTML, CSS, Bash, Python],
   tools: [MySQL, PostgreSQL, IBM CLOUD - DB2, IBM - Cognos Analytics , PGAdmin, MongoDB, 
-  Visual Studio Code]
+  Visual Studio Code, NEO4J, MongoDB, Cassandra]
   student: [Oracle Next Education - G3 + Alura Latam]
   
   
