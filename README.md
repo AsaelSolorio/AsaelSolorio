@@ -25,10 +25,6 @@ const Asael = {
  challenge: "I’m currently learning Full stack development at Oracle + Alura Latam and 
  self-taught Data Engineering and Data Analyst "
 }
-```
 
- <em><b>I enoy connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
 
  From [@Asael](https://github.com/AsaelSolorio)
