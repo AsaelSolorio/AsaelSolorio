@@ -1,7 +1,7 @@
 <h2> Hi, I'm Asael Solorio! </h2>
 
 
-<p><em>Biomedical Engineer at <a href="https://uvm.mx/oferta-academica/licenciaturas-ingenierias/ingenierias-uvm/ingenieria-biomedica?trackid=goosrcarpaonbrn">University of the Valley of Mexico</a></br>Entry level Data Engineer
+<p><em>Biomedical Engineer at <a href="https://uvm.mx/oferta-academica/licenciaturas-ingenierias/ingenierias-uvm/ingenieria-biomedica?trackid=goosrcarpaonbrn">University of the Valley of Mexico</a></br>Software Biomedical Engineer / Data engineer / DevOps
 </em></p>
 
 
